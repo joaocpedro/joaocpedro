@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm João Pedro, currently on 5º semester of **Systems Analysis and Development** (3-year course) 
+I am João Pedro, I have a degree in Systems Analysis and Development, I like to code anything and test new technologies **(:**
 
 
 
