@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I am João Pedro, I have a degree in Systems Analysis and Development, I like to code anything and test new technologies **(:**
+As vezes movimento por aqui haha **(:**
 
 
 
